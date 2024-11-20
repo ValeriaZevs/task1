@@ -1,1 +1,7 @@
 private/
+*._old
+*._backup
+tmp/
+img/._Thumbs.db
+img/._.DS_Store
+._.DS_Store
